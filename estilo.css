@@ -1,0 +1,47 @@
+#principal{
+    border: solid 3px;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: large;
+ 
+}
+
+.fieldset{
+
+    margin-bottom: 10px;
+    background: burlywood;
+}
+
+.legend{
+    border-bottom: 10px blue;
+    padding: 5px;
+    font-family: 'Arial Narrow';
+    border-radius: 20px;
+    background: lightblue;
+
+}
+
+.imagenhobbies{
+    font-family: 'Times New Roman';
+    background: burlywood;
+}
+
+.fotoperfil{
+    align-content: flex-start;
+}
+
+.tituloprincipal{
+    align-items: center;
+    font-size: larger;
+    font-size: 20px;
+}
+
+.imagen{
+    width: 150px;
+    height: 150px;
+}
+
+.imagenhobbies{
+    display: flex;
+    gap: 30px;
+}
